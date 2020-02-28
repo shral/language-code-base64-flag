@@ -1,6 +1,12 @@
 #!/usr/bin/env node
 
 
+
+/**
+ * @author Shefki Esadi <shralsheki@gmail.com>
+ * @since 28.02.2020
+ */
+
 const fs = require('fs');
 const util = require('util');
 const _ = require('lodash');
